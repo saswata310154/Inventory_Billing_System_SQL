@@ -59,10 +59,6 @@ DevifyX_Inventory_System_Final/
 - Payment tracking
 - Audit logs
 
-## 📤 Submission Link
-
-Submit the zipped folder to: [https://forms.gle/HZxnwbzDnmLzMsqTA](https://forms.gle/HZxnwbzDnmLzMsqTA)
-
 ## 👨‍💻 Developed By
 
 Saswata Sarkar  
