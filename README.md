@@ -62,4 +62,4 @@ DevifyX_Inventory_System_Final/
 ## 👨‍💻 Developed By
 
 Saswata Sarkar  
-M.Sc. Data Science, Kalyani University
+M.Sc. Data Science, Kalyani University,West Bengal,India
